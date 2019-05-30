@@ -1,0 +1,14 @@
+{
+  "name": "SPA application",
+  "description": "Our main spa application.",
+  "callbacks": ["https://localhost:3000/callback"],
+  "allowed_origins": ["https://localhost:3001"],
+  "app_type": "spa",
+  "grant_types": ["implicit"],
+  "allowed_logout_urls": [
+    "http://localhost:4200",
+    "http://localhost:4200/logout",
+    "http://localhost:3000",
+    "http://localdev:3000"
+  ]
+}

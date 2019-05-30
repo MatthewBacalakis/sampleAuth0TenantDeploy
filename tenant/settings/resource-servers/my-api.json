@@ -1,0 +1,10 @@
+{
+  "name": "my api",
+  "identifier": "https://myapp.com/api/v1",
+  "scopes": [
+    {
+      "value": "read:users",
+      "description": "Allows getting user information"
+    }
+  ]
+}
