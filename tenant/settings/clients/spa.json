@@ -1,6 +1,6 @@
 {
   "name": "SPA application",
-  "description": "Our main spa application.",
+  "description": "Our main spa application!",
   "callbacks": ["https://localhost:3000/callback"],
   "allowed_origins": ["https://localhost:3001"],
   "app_type": "spa",
