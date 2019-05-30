@@ -1,5 +1,5 @@
 {
-  "name": "SPA application",
+  "name": "SPA1 application",
   "description": "Our main spa application!",
   "callbacks": ["https://localhost:3000/callback"],
   "allowed_origins": ["https://localhost:3001"],
